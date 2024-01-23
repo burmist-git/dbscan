@@ -1,0 +1,12 @@
+*~
+.*~
+src/*~
+obj/dbscan.o
+hist_dbscan_Aggregation.root
+hist_dbscan_Compound.root
+hist_dbscan_S_sets.root
+hist_dbscan_spiral.root
+hist_dbscan_Aggregation.root.pdf
+hist_dbscan_Compound.root.pdf
+hist_dbscan_S_sets.root.pdf
+hist_dbscan_spiral.root.pdf
